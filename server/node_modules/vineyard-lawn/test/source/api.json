@@ -1,0 +1,12 @@
+{
+  "test": {
+    "properties": {
+      "weapon": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "weapon"
+    ]
+  }
+}
